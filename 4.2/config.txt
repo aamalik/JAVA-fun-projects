@@ -1,0 +1,5 @@
+Pakistan https://www.cia.gov/library/publications/the-world-factbook/geos/countrytemplate_pk.html
+Afghanistan https://www.cia.gov/library/publications/the-world-factbook/geos/countrytemplate_af.html
+Bangladesh https://www.cia.gov/library/publications/the-world-factbook/geos/countrytemplate_bg.html
+Belgium https://www.cia.gov/library/publications/the-world-factbook/geos/countrytemplate_be.html
+China https://www.cia.gov/library/publications/the-world-factbook/geos/countrytemplate_ch.html

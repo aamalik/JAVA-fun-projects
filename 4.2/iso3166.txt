@@ -1,0 +1,6 @@
+AF AFG 004 Afghanistan
+BD BGD 050 Bangladesh
+BE BEL 056 Belgium
+CN CHN 156 China
+PK PAK 586 Pakistan
+
