@@ -13,6 +13,6 @@ public class type {
 			System.out.println("Its an even number"); 
 		}
 		else 
-			System.out.println("Its an odd number"); 
+			System.out.println("An odd number"); 
 		}
 }
